@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [FrontendMentor Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
-- Live Site URL: [Solution in Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Solution in Github Pages](https://caferreiraxd.github.io/frontendmentor-challenge/)
 
 ## My process
 
